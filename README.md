@@ -112,5 +112,5 @@ Integration with campus parking APIs if available
 Author
 
 Muqtada Al-Abbooda
-Bachelor of Information Technology
+Bachelor of Information Technology/Software Engineering
 La Trobe University
